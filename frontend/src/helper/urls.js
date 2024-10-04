@@ -4,4 +4,4 @@ export const adminRegisterUrl = `${apiUrl}/admin/register`
 export const patientRegisterUrl = `${apiUrl}/patient/register`
 export const sseRegisteredPatientUrl = `${apiUrl}/sse/send-registered-patient`
 export const verifyPatientUrl = `${apiUrl}/patient/verify`
-export const mapsApiKey = "AIzaSyDa-CleGrwe_bvnbV3HcroQZvdOYdIkhzA"
+export const mapsApiKey = ""
